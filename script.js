@@ -55,7 +55,6 @@ const playGame = (userChoice) => {
 
 choices.forEach(choice => {
     choice.addEventListener("click", () => {
-        this.style.cursor = "grabbing";
         const userChoice = choice.getAttribute("id");
         playGame(userChoice);
     });

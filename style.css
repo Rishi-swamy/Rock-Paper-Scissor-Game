@@ -23,8 +23,7 @@ h1{
 
 .choice:hover{
     opacity: 0.5;
-    /* cursor: pointer; */
-    cursor: grab;
+    cursor: pointer;
     background-color: rgb(54, 0, 105);
 }
 
