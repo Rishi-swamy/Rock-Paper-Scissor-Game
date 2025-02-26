@@ -33,4 +33,4 @@ A simple **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**.
 ## 🛠️ Setup & Installation
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/rock-paper-scissors.git
+   git clone https://github.com/Rishi-Swamy10/Rock-Paper-Scissor-Game.git
